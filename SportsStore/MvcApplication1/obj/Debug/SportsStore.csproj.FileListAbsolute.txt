@@ -1,0 +1,92 @@
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\MvcApplication1.dll.config
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\MvcApplication1.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\MvcApplication1.pdb
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\ActivityLibrary1.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Moq.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Newtonsoft.Json.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Common.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Mvc.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Net.Http.Formatting.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Helpers.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Http.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Http.WebHost.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Mvc.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Razor.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\WebActivator.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\ActivityLibrary1.pdb
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Moq.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.pdb
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Common.pdb
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Common.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Mvc.pdb
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Mvc.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\Newtonsoft.Json.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Net.Http.Formatting.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Helpers.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Http.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Http.WebHost.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Mvc.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Razor.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\obj\Debug\MvcApplication1.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\obj\Debug\MvcApplication1.pdb
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\EntityFramework.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\EntityFramework.SqlServer.dll
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\EntityFramework.xml
+D:\lessons\SportStoreProject\SportsStore\MvcApplication1\bin\EntityFramework.SqlServer.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\MvcApplication1.dll.config
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\MvcApplication1.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\MvcApplication1.pdb
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\ActivityLibrary1.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\EntityFramework.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\EntityFramework.SqlServer.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Moq.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Newtonsoft.Json.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Common.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Mvc.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Net.Http.Formatting.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Helpers.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Http.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Http.WebHost.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Mvc.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Razor.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\WebActivator.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\ActivityLibrary1.pdb
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\EntityFramework.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\EntityFramework.SqlServer.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Moq.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.pdb
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Common.pdb
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Common.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Mvc.pdb
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Ninject.Web.Mvc.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\Newtonsoft.Json.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Net.Http.Formatting.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Helpers.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Http.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Http.WebHost.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Mvc.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.Razor.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\obj\Debug\SportsStore.csprojResolveAssemblyReference.cache
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\obj\Debug\MvcApplication1.dll
+D:\lessons\MVC Applications\SportStoreProject\SportsStore\MvcApplication1\obj\Debug\MvcApplication1.pdb
